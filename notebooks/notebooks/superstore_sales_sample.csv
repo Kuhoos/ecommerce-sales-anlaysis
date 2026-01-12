@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,Region,State,City,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2023-824902,2023-01-01,2023-01-07,First Class,Corporate,West,Ohio,San Francisco,Office Supplies,Storage,78.68,5,0.0,12.09
+CA-2024-416712,2023-01-02,2023-01-09,Second Class,Corporate,West,Illinois,Los Angeles,Furniture,Bookcases,60.65,6,0.0,-1.01
+CA-2023-161215,2023-01-06,2023-01-10,Standard Class,Consumer,East,Texas,Chicago,Furniture,Chairs,52.74,5,0.1,6.34
+CA-2024-403568,2023-01-06,2023-01-07,Second Class,Home Office,West,California,Los Angeles,Furniture,Bookcases,31.2,6,0.1,1.76
+CA-2024-754381,2023-01-07,2023-01-14,Standard Class,Corporate,Central,New York,Charlotte,Furniture,Furnishings,71.16,7,0.0,6.8
+CA-2023-399023,2023-01-08,2023-01-15,Same Day,Consumer,East,Florida,Miami,Office Supplies,Binders,51.17,3,0.1,5.79
+CA-2023-461676,2023-01-09,2023-01-12,First Class,Home Office,West,New York,Los Angeles,Technology,Machines,28.3,2,0.0,3.99
+CA-2023-166482,2023-01-11,2023-01-18,Standard Class,Home Office,Central,Texas,Miami,Furniture,Chairs,53.03,2,0.0,7.39
+CA-2023-226638,2023-01-12,2023-01-18,First Class,Home Office,East,Illinois,Chicago,Furniture,Bookcases,23.62,5,0.2,-1.0
+CA-2023-192108,2023-01-12,2023-01-14,Second Class,Consumer,West,Illinois,Houston,Technology,Phones,100.18,4,0.2,4.01
+CA-2024-250546,2023-01-13,2023-01-15,First Class,Home Office,South,Washington,Atlanta,Furniture,Bookcases,57.66,5,0.2,5.13
+CA-2023-612125,2023-01-15,2023-01-17,Second Class,Home Office,East,New York,New York City,Furniture,Chairs,90.91,1,0.0,13.96
+CA-2024-169950,2023-01-15,2023-01-17,First Class,Home Office,East,Ohio,Miami,Technology,Phones,69.3,5,0.2,4.62
+CA-2024-781232,2023-01-17,2023-01-20,Standard Class,Consumer,Central,Ohio,Seattle,Technology,Phones,78.08,7,0.0,-2.78
+CA-2024-971545,2023-01-19,2023-01-21,Second Class,Consumer,Central,California,Miami,Technology,Accessories,59.96,3,0.2,-3.11
+CA-2023-305249,2023-01-20,2023-01-23,Standard Class,Home Office,Central,Florida,Miami,Furniture,Bookcases,53.94,5,0.0,-1.61
+CA-2024-698018,2023-01-22,2023-01-25,Same Day,Consumer,Central,Washington,Chicago,Furniture,Furnishings,70.25,4,0.0,2.24
+CA-2023-233428,2023-01-22,2023-01-23,Standard Class,Corporate,South,North Carolina,Philadelphia,Office Supplies,Art,116.2,7,0.0,-3.74
+CA-2024-788345,2023-01-29,2023-01-31,Second Class,Home Office,East,California,Atlanta,Office Supplies,Storage,49.72,5,0.3,5.9
+CA-2024-309994,2023-01-29,2023-02-02,Same Day,Home Office,West,Illinois,Los Angeles,Office Supplies,Appliances,67.24,4,0.0,5.96
+CA-2024-977181,2023-01-30,2023-02-04,Second Class,Corporate,South,New York,San Francisco,Office Supplies,Art,161.84,6,0.0,11.05
+CA-2024-198286,2023-02-01,2023-02-03,Same Day,Consumer,South,Ohio,New York City,Furniture,Chairs,39.31,3,0.1,1.46
+CA-2023-120255,2023-02-02,2023-02-05,Standard Class,Consumer,West,New York,Seattle,Furniture,Tables,62.2,3,0.0,7.07
+CA-2023-378636,2023-02-03,2023-02-10,Same Day,Home Office,Central,Washington,Miami,Furniture,Bookcases,32.09,3,0.3,-1.21
+CA-2024-780039,2023-02-03,2023-02-05,Second Class,Consumer,South,Ohio,Chicago,Furniture,Chairs,13.15,5,0.1,1.02
+CA-2024-667834,2023-02-05,2023-02-06,Same Day,Consumer,Central,Illinois,Philadelphia,Furniture,Chairs,81.58,7,0.3,3.52
+CA-2024-584564,2023-02-05,2023-02-12,Second Class,Consumer,East,New York,Charlotte,Office Supplies,Art,44.49,4,0.2,-2.24
+CA-2024-783294,2023-02-06,2023-02-13,Same Day,Home Office,Central,Illinois,Columbus,Office Supplies,Art,47.42,2,0.0,-0.66
+CA-2023-917627,2023-02-09,2023-02-10,First Class,Corporate,Central,North Carolina,Houston,Technology,Accessories,34.98,7,0.3,1.11
+CA-2023-143784,2023-02-11,2023-02-14,Second Class,Corporate,Central,Washington,Atlanta,Office Supplies,Paper,76.55,5,0.0,-3.9
+CA-2024-767026,2023-02-12,2023-02-13,Standard Class,Consumer,West,Illinois,San Francisco,Office Supplies,Art,35.19,7,0.3,3.97
+CA-2023-687142,2023-02-14,2023-02-18,Same Day,Corporate,West,Florida,Seattle,Furniture,Chairs,51.03,4,0.3,-1.56
+CA-2024-263776,2023-02-14,2023-02-20,Same Day,Home Office,West,Georgia,Houston,Furniture,Tables,129.88,4,0.1,15.25
+CA-2024-264172,2023-02-14,2023-02-17,Same Day,Consumer,West,Pennsylvania,Atlanta,Technology,Machines,30.79,1,0.0,-1.71
+CA-2023-278261,2023-02-14,2023-02-20,Second Class,Consumer,East,North Carolina,Philadelphia,Office Supplies,Art,43.12,7,0.3,-1.71
+CA-2023-294682,2023-02-15,2023-02-18,Same Day,Corporate,East,Washington,Chicago,Technology,Phones,27.52,6,0.2,3.18
+CA-2024-829688,2023-02-15,2023-02-16,Same Day,Home Office,Central,Ohio,Miami,Technology,Phones,42.1,6,0.0,-1.27
+CA-2023-110969,2023-02-17,2023-02-22,First Class,Corporate,Central,Illinois,Charlotte,Technology,Accessories,89.48,1,0.1,9.24
+CA-2024-166864,2023-02-19,2023-02-22,First Class,Home Office,West,Ohio,Columbus,Furniture,Furnishings,73.91,1,0.2,8.06
+CA-2023-914646,2023-02-19,2023-02-23,First Class,Corporate,South,Washington,Miami,Technology,Phones,61.36,6,0.1,-3.46
+CA-2024-528807,2023-02-26,2023-02-27,Second Class,Corporate,West,Ohio,Miami,Office Supplies,Paper,20.09,5,0.0,2.34
+CA-2023-788423,2023-03-01,2023-03-07,First Class,Consumer,East,Illinois,Miami,Technology,Phones,24.91,7,0.0,2.34
+CA-2023-501616,2023-03-09,2023-03-13,First Class,Home Office,West,North Carolina,Atlanta,Furniture,Furnishings,41.78,5,0.0,-1.22
+CA-2023-662953,2023-03-09,2023-03-11,First Class,Consumer,South,North Carolina,Chicago,Technology,Machines,25.46,2,0.1,1.58
+CA-2023-821403,2023-03-10,2023-03-12,Second Class,Consumer,East,Ohio,Charlotte,Office Supplies,Appliances,79.58,6,0.2,1.49
+CA-2024-823399,2023-03-10,2023-03-16,First Class,Home Office,South,Texas,Columbus,Technology,Accessories,77.48,7,0.0,1.24
+CA-2024-731535,2023-03-10,2023-03-13,First Class,Corporate,West,New York,Philadelphia,Technology,Machines,81.93,2,0.0,1.75
+CA-2024-648312,2023-03-11,2023-03-15,Second Class,Home Office,South,New York,Miami,Technology,Accessories,32.32,7,0.0,5.67
+CA-2023-575816,2023-03-14,2023-03-20,Standard Class,Corporate,South,Florida,Atlanta,Technology,Accessories,118.34,6,0.0,13.48
+CA-2024-246679,2023-03-14,2023-03-18,Second Class,Home Office,West,Texas,Houston,Technology,Machines,57.06,2,0.0,-1.05
+CA-2024-204485,2023-03-15,2023-03-21,First Class,Home Office,Central,North Carolina,San Francisco,Technology,Copiers,42.63,7,0.3,1.72
+CA-2023-642783,2023-03-17,2023-03-22,Same Day,Corporate,West,California,Houston,Furniture,Furnishings,61.42,6,0.3,-0.9
+CA-2024-585783,2023-03-18,2023-03-21,Standard Class,Consumer,Central,North Carolina,Chicago,Office Supplies,Paper,99.65,3,0.2,-5.2
+CA-2023-538210,2023-03-19,2023-03-20,First Class,Home Office,West,Pennsylvania,Philadelphia,Furniture,Furnishings,89.92,2,0.1,-4.91
+CA-2023-431357,2023-03-19,2023-03-23,Second Class,Home Office,South,Texas,Seattle,Technology,Accessories,39.86,2,0.2,4.89
+CA-2023-781679,2023-03-20,2023-03-27,Standard Class,Home Office,Central,Texas,Seattle,Office Supplies,Appliances,53.01,2,0.1,-1.03
+CA-2023-552280,2023-03-21,2023-03-24,Same Day,Home Office,South,Washington,Miami,Office Supplies,Storage,68.81,1,0.0,1.35
+CA-2024-863161,2023-03-21,2023-03-24,Same Day,Consumer,East,California,New York City,Technology,Accessories,134.41,1,0.2,2.94
+CA-2023-258599,2023-03-24,2023-03-28,Second Class,Home Office,East,Ohio,Los Angeles,Office Supplies,Binders,27.76,3,0.0,4.66
+CA-2023-495172,2023-03-25,2023-03-28,First Class,Corporate,West,Ohio,Houston,Furniture,Furnishings,21.44,5,0.1,1.48
+CA-2023-802944,2023-03-26,2023-04-02,Second Class,Home Office,East,Pennsylvania,Columbus,Office Supplies,Art,102.12,2,0.1,13.44
+CA-2024-636961,2023-03-26,2023-04-02,Same Day,Consumer,West,Illinois,Columbus,Office Supplies,Binders,65.26,6,0.2,7.93
+CA-2023-583297,2023-03-27,2023-03-29,Second Class,Home Office,West,Illinois,Atlanta,Technology,Accessories,160.92,4,0.1,-9.5
+CA-2023-539961,2023-03-27,2023-03-31,Second Class,Corporate,East,Florida,Chicago,Furniture,Furnishings,47.43,5,0.1,4.34
+CA-2023-440023,2023-03-28,2023-04-04,Same Day,Consumer,East,North Carolina,Columbus,Furniture,Tables,72.43,1,0.1,7.33
+CA-2023-896406,2023-03-29,2023-04-04,Standard Class,Consumer,East,Georgia,New York City,Furniture,Furnishings,61.87,4,0.0,3.73
+CA-2024-486545,2023-03-30,2023-04-03,Same Day,Home Office,East,Florida,Miami,Office Supplies,Appliances,44.77,7,0.3,3.31
+CA-2023-403006,2023-03-31,2023-04-06,Second Class,Consumer,South,New York,Columbus,Office Supplies,Binders,42.65,2,0.0,-1.96
+CA-2023-527298,2023-04-01,2023-04-04,Standard Class,Home Office,East,Washington,Houston,Furniture,Chairs,58.89,6,0.3,0.58
+CA-2024-824942,2023-04-02,2023-04-05,Standard Class,Consumer,Central,Georgia,Atlanta,Technology,Phones,32.33,3,0.0,4.02
+CA-2024-464436,2023-04-03,2023-04-10,Second Class,Consumer,West,North Carolina,Columbus,Office Supplies,Paper,49.39,7,0.0,5.34
+CA-2024-364444,2023-04-03,2023-04-08,Standard Class,Corporate,East,Washington,Seattle,Furniture,Chairs,58.71,6,0.3,1.99
+CA-2024-740701,2023-04-04,2023-04-05,Second Class,Home Office,West,California,Los Angeles,Furniture,Tables,34.39,5,0.2,2.3
+CA-2023-397953,2023-04-06,2023-04-10,Same Day,Corporate,South,Florida,Columbus,Furniture,Bookcases,58.83,5,0.0,3.61
+CA-2023-502208,2023-04-11,2023-04-13,First Class,Consumer,East,Washington,Seattle,Technology,Accessories,80.63,5,0.0,6.46
+CA-2023-639620,2023-04-13,2023-04-17,Same Day,Corporate,West,Ohio,Los Angeles,Technology,Machines,51.11,5,0.0,5.58
+CA-2023-466416,2023-04-14,2023-04-16,Second Class,Consumer,West,Florida,New York City,Furniture,Bookcases,92.88,5,0.1,-4.96
+CA-2023-546667,2023-04-15,2023-04-20,Standard Class,Home Office,East,North Carolina,San Francisco,Technology,Accessories,43.09,5,0.1,4.07
+CA-2023-533097,2023-04-16,2023-04-18,Standard Class,Consumer,South,Georgia,Atlanta,Technology,Machines,111.54,3,0.0,-1.81
+CA-2024-341222,2023-04-17,2023-04-18,Second Class,Home Office,West,Florida,Columbus,Furniture,Bookcases,35.92,1,0.0,-0.4
+CA-2023-588117,2023-04-18,2023-04-19,First Class,Consumer,South,New York,Seattle,Office Supplies,Binders,142.8,1,0.1,7.86
+CA-2024-479919,2023-04-18,2023-04-23,Same Day,Consumer,West,Florida,Columbus,Office Supplies,Binders,74.54,1,0.3,4.98
+CA-2023-748602,2023-04-22,2023-04-26,Second Class,Home Office,Central,New York,Charlotte,Technology,Copiers,39.08,4,0.0,4.7
+CA-2023-683506,2023-04-23,2023-04-28,Standard Class,Corporate,South,New York,Columbus,Furniture,Tables,49.44,7,0.0,3.05
+CA-2024-656471,2023-04-25,2023-04-30,Second Class,Consumer,East,Florida,Atlanta,Furniture,Bookcases,72.05,2,0.3,-2.73
+CA-2023-586237,2023-04-29,2023-04-30,Standard Class,Consumer,West,Illinois,Miami,Technology,Machines,77.54,4,0.0,13.78
+CA-2024-240330,2023-04-30,2023-05-01,Second Class,Consumer,West,Washington,Atlanta,Technology,Machines,54.91,6,0.0,-1.26
+CA-2023-106165,2023-05-02,2023-05-07,Same Day,Consumer,Central,Florida,New York City,Technology,Machines,80.48,4,0.3,3.34
+CA-2023-854526,2023-05-04,2023-05-10,Standard Class,Consumer,South,Ohio,Atlanta,Office Supplies,Binders,38.67,1,0.3,2.17
+CA-2024-651822,2023-05-05,2023-05-06,First Class,Home Office,Central,New York,Charlotte,Technology,Machines,75.61,4,0.0,0.15
+CA-2024-788964,2023-05-07,2023-05-10,Second Class,Consumer,Central,California,Houston,Technology,Machines,45.69,4,0.1,-1.92
+CA-2024-207796,2023-05-10,2023-05-12,First Class,Corporate,Central,Ohio,Charlotte,Furniture,Furnishings,43.12,3,0.0,0.19
+CA-2023-434797,2023-05-11,2023-05-12,Second Class,Corporate,Central,North Carolina,Seattle,Furniture,Chairs,67.44,2,0.0,6.37
+CA-2024-137642,2023-05-12,2023-05-19,Standard Class,Consumer,West,Pennsylvania,Charlotte,Furniture,Chairs,37.81,2,0.0,1.18
+CA-2024-359448,2023-05-12,2023-05-19,Second Class,Consumer,East,Texas,Houston,Office Supplies,Storage,78.28,2,0.3,6.3
+CA-2024-133310,2023-05-14,2023-05-16,Same Day,Consumer,Central,Pennsylvania,Charlotte,Office Supplies,Storage,39.04,5,0.0,-2.49
+CA-2023-684489,2023-05-16,2023-05-19,Same Day,Corporate,Central,Georgia,New York City,Technology,Phones,201.13,6,0.0,-7.8
+CA-2024-497832,2023-05-17,2023-05-19,Same Day,Home Office,South,Ohio,Charlotte,Furniture,Bookcases,36.29,2,0.0,5.81
+CA-2023-209869,2023-05-18,2023-05-23,Standard Class,Corporate,Central,California,New York City,Office Supplies,Appliances,34.94,7,0.0,5.3
+CA-2024-460823,2023-05-20,2023-05-23,Second Class,Home Office,Central,Washington,Atlanta,Technology,Phones,16.58,7,0.0,-0.39
+CA-2024-604693,2023-05-24,2023-05-29,Same Day,Consumer,South,Washington,New York City,Office Supplies,Storage,72.71,5,0.0,6.0
+CA-2024-138452,2023-05-25,2023-05-29,Second Class,Home Office,Central,North Carolina,Atlanta,Furniture,Bookcases,87.95,3,0.0,11.74
+CA-2023-824720,2023-05-25,2023-05-31,Second Class,Home Office,Central,North Carolina,Charlotte,Furniture,Bookcases,63.57,6,0.0,-3.82
+CA-2023-740262,2023-05-26,2023-05-30,Same Day,Home Office,East,Florida,Chicago,Furniture,Bookcases,51.37,3,0.1,0.05
+CA-2023-227756,2023-05-31,2023-06-02,First Class,Consumer,West,Ohio,Charlotte,Technology,Phones,56.04,2,0.0,9.76
+CA-2023-173453,2023-05-31,2023-06-02,Standard Class,Consumer,West,Washington,Los Angeles,Technology,Machines,100.62,2,0.3,2.81
+CA-2023-756646,2023-06-01,2023-06-03,Second Class,Corporate,Central,California,Philadelphia,Office Supplies,Art,39.51,7,0.2,5.29
+CA-2024-371963,2023-06-02,2023-06-09,Same Day,Consumer,West,Illinois,Philadelphia,Office Supplies,Appliances,30.21,6,0.0,-0.33
+CA-2024-675469,2023-06-02,2023-06-07,First Class,Home Office,South,Florida,Chicago,Office Supplies,Binders,29.51,2,0.3,1.38
+CA-2023-107693,2023-06-06,2023-06-12,Second Class,Consumer,Central,Pennsylvania,San Francisco,Technology,Machines,69.96,2,0.1,-0.77
+CA-2023-358269,2023-06-06,2023-06-09,Standard Class,Corporate,Central,New York,Miami,Technology,Copiers,34.94,5,0.1,-0.47
+CA-2023-410709,2023-06-07,2023-06-14,First Class,Consumer,East,New York,Houston,Furniture,Chairs,42.79,1,0.0,-0.58
+CA-2024-645270,2023-06-10,2023-06-11,First Class,Consumer,Central,Pennsylvania,Houston,Furniture,Chairs,20.5,4,0.0,-1.38
+CA-2024-568125,2023-06-10,2023-06-17,Standard Class,Home Office,East,California,Seattle,Technology,Phones,69.06,1,0.0,-2.64
+CA-2023-975472,2023-06-11,2023-06-12,Same Day,Home Office,West,Illinois,Miami,Technology,Phones,185.85,5,0.1,17.1
+CA-2023-789232,2023-06-11,2023-06-16,Standard Class,Consumer,West,Florida,Houston,Office Supplies,Paper,31.15,1,0.2,-0.69
+CA-2023-950160,2023-06-12,2023-06-14,First Class,Corporate,Central,New York,Charlotte,Technology,Phones,91.57,5,0.0,-1.33
+CA-2024-179936,2023-06-15,2023-06-17,First Class,Home Office,East,Illinois,New York City,Technology,Accessories,42.25,6,0.1,1.35
+CA-2023-525868,2023-06-15,2023-06-16,Same Day,Home Office,West,Ohio,Atlanta,Furniture,Tables,55.82,2,0.0,8.47
+CA-2023-662685,2023-06-17,2023-06-22,Standard Class,Corporate,West,New York,Seattle,Office Supplies,Appliances,69.74,6,0.0,10.77
+CA-2024-568492,2023-06-19,2023-06-25,Same Day,Consumer,West,California,Atlanta,Technology,Accessories,86.05,6,0.1,6.4
+CA-2024-735326,2023-06-23,2023-06-30,Second Class,Consumer,South,North Carolina,Chicago,Office Supplies,Paper,44.25,7,0.3,0.55
+CA-2023-920447,2023-06-24,2023-07-01,First Class,Home Office,Central,Texas,Los Angeles,Furniture,Tables,92.75,4,0.0,-4.29
+CA-2023-961168,2023-06-25,2023-06-30,Standard Class,Corporate,West,Georgia,Seattle,Office Supplies,Paper,44.04,5,0.1,0.68
+CA-2023-528805,2023-06-26,2023-06-28,Second Class,Corporate,East,Texas,New York City,Technology,Copiers,63.67,2,0.0,5.73
+CA-2024-195765,2023-06-28,2023-07-04,Same Day,Consumer,East,Texas,Chicago,Office Supplies,Storage,64.23,3,0.0,7.68
+CA-2024-202839,2023-06-28,2023-06-30,Standard Class,Consumer,East,Florida,Miami,Technology,Phones,80.07,3,0.0,12.95
+CA-2023-508773,2023-06-30,2023-07-02,Same Day,Home Office,Central,Pennsylvania,Houston,Furniture,Chairs,93.81,2,0.3,-1.94
+CA-2023-956509,2023-07-01,2023-07-08,Same Day,Corporate,Central,Pennsylvania,Philadelphia,Technology,Copiers,111.15,4,0.0,13.72
+CA-2024-993311,2023-07-02,2023-07-03,Same Day,Corporate,West,California,Chicago,Furniture,Furnishings,106.67,2,0.0,3.17
+CA-2024-523341,2023-07-03,2023-07-07,First Class,Home Office,Central,Georgia,Miami,Furniture,Bookcases,157.86,7,0.0,14.4
+CA-2023-648936,2023-07-03,2023-07-10,Standard Class,Corporate,East,North Carolina,Los Angeles,Technology,Machines,56.61,5,0.2,6.67
+CA-2023-933500,2023-07-03,2023-07-07,First Class,Home Office,Central,Pennsylvania,Houston,Furniture,Chairs,237.67,4,0.0,19.95
+CA-2023-171387,2023-07-04,2023-07-06,First Class,Home Office,Central,Washington,San Francisco,Technology,Accessories,23.66,4,0.0,2.36
+CA-2023-836876,2023-07-04,2023-07-07,First Class,Consumer,East,Washington,Columbus,Technology,Accessories,65.47,5,0.1,-0.62
+CA-2023-163616,2023-07-05,2023-07-07,First Class,Home Office,South,Florida,Chicago,Furniture,Chairs,34.35,3,0.0,2.11
+CA-2023-178050,2023-07-07,2023-07-10,Same Day,Home Office,Central,New York,Seattle,Office Supplies,Art,29.08,3,0.1,-0.43
+CA-2023-632376,2023-07-09,2023-07-11,Same Day,Home Office,West,New York,Philadelphia,Furniture,Tables,36.22,5,0.0,4.01
+CA-2024-784453,2023-07-10,2023-07-13,Second Class,Consumer,West,North Carolina,San Francisco,Technology,Phones,127.65,1,0.0,-1.02
+CA-2023-321648,2023-07-10,2023-07-13,Second Class,Corporate,South,Illinois,Atlanta,Technology,Accessories,78.45,2,0.0,-3.41
+CA-2024-493977,2023-07-14,2023-07-18,First Class,Consumer,Central,Pennsylvania,Chicago,Office Supplies,Appliances,40.62,1,0.0,-2.04
+CA-2024-872366,2023-07-15,2023-07-22,First Class,Home Office,West,Georgia,Columbus,Furniture,Tables,77.37,4,0.1,2.69
+CA-2024-634909,2023-07-15,2023-07-22,First Class,Home Office,South,Washington,Charlotte,Furniture,Furnishings,37.4,6,0.3,0.48
+CA-2023-381986,2023-07-15,2023-07-22,Standard Class,Home Office,West,Florida,San Francisco,Office Supplies,Binders,96.93,4,0.3,9.1
+CA-2023-195119,2023-07-16,2023-07-18,Same Day,Consumer,West,Washington,Charlotte,Furniture,Chairs,33.29,5,0.1,2.26
+CA-2023-751221,2023-07-17,2023-07-20,Same Day,Home Office,East,Ohio,New York City,Technology,Accessories,43.85,6,0.3,-0.51
+CA-2023-979322,2023-07-18,2023-07-20,Same Day,Corporate,East,Florida,Houston,Technology,Machines,39.77,1,0.3,-1.03
+CA-2024-176672,2023-07-21,2023-07-23,Second Class,Home Office,Central,New York,New York City,Office Supplies,Storage,64.65,6,0.0,0.79
+CA-2024-832516,2023-07-23,2023-07-28,Standard Class,Consumer,West,Florida,Columbus,Furniture,Bookcases,125.11,7,0.0,2.93
+CA-2024-512526,2023-07-26,2023-07-31,Second Class,Home Office,West,Illinois,Miami,Technology,Machines,50.27,2,0.1,-2.8
+CA-2023-598543,2023-07-28,2023-08-02,Same Day,Home Office,West,New York,Charlotte,Office Supplies,Binders,80.98,7,0.0,0.81
+CA-2024-983162,2023-07-30,2023-08-03,Standard Class,Home Office,West,Ohio,Miami,Office Supplies,Paper,43.81,2,0.1,-2.35
+CA-2024-247143,2023-07-31,2023-08-03,Second Class,Home Office,Central,Georgia,San Francisco,Technology,Accessories,27.25,7,0.1,2.35
+CA-2023-702326,2023-07-31,2023-08-05,First Class,Home Office,South,Illinois,Philadelphia,Furniture,Tables,127.89,6,0.3,-1.34
+CA-2023-353478,2023-08-01,2023-08-02,Standard Class,Consumer,West,New York,San Francisco,Furniture,Bookcases,42.88,5,0.2,0.62
+CA-2023-373755,2023-08-02,2023-08-08,Second Class,Home Office,West,Florida,Chicago,Office Supplies,Appliances,194.5,6,0.2,0.32
+CA-2023-913001,2023-08-03,2023-08-05,Standard Class,Home Office,South,Florida,Los Angeles,Furniture,Furnishings,42.44,7,0.0,3.37
+CA-2024-268498,2023-08-04,2023-08-09,Same Day,Consumer,West,Florida,Atlanta,Furniture,Chairs,38.36,7,0.1,1.44
+CA-2023-622073,2023-08-08,2023-08-14,Same Day,Corporate,West,Texas,Los Angeles,Technology,Copiers,91.21,4,0.0,0.38
+CA-2023-602278,2023-08-13,2023-08-15,First Class,Consumer,East,New York,Atlanta,Technology,Machines,38.23,2,0.1,-1.08
+CA-2024-926187,2023-08-14,2023-08-20,Standard Class,Home Office,Central,Illinois,San Francisco,Furniture,Chairs,110.66,6,0.3,-0.91
+CA-2024-818118,2023-08-15,2023-08-20,Same Day,Home Office,Central,Ohio,Atlanta,Furniture,Chairs,75.45,3,0.1,0.44
+CA-2024-609629,2023-08-15,2023-08-18,Standard Class,Corporate,Central,Ohio,New York City,Office Supplies,Binders,84.66,5,0.0,7.54
+CA-2024-818436,2023-08-16,2023-08-18,Standard Class,Consumer,East,California,New York City,Furniture,Furnishings,88.43,2,0.0,-6.08
+CA-2023-532285,2023-08-19,2023-08-26,Second Class,Consumer,West,Illinois,Atlanta,Office Supplies,Appliances,144.65,3,0.0,7.78
+CA-2023-268655,2023-08-19,2023-08-23,Second Class,Home Office,Central,New York,Atlanta,Office Supplies,Binders,47.44,3,0.0,5.56
+CA-2024-847824,2023-08-19,2023-08-22,First Class,Consumer,West,California,Chicago,Furniture,Furnishings,59.15,6,0.0,5.75
+CA-2024-249702,2023-08-20,2023-08-23,First Class,Consumer,West,Texas,Philadelphia,Office Supplies,Paper,64.23,1,0.1,8.73
+CA-2024-899204,2023-08-22,2023-08-28,Standard Class,Consumer,Central,Ohio,San Francisco,Furniture,Furnishings,22.28,4,0.0,1.09
+CA-2024-243647,2023-08-23,2023-08-24,Standard Class,Corporate,East,Washington,Atlanta,Technology,Machines,49.86,7,0.0,-2.84
+CA-2024-737198,2023-08-23,2023-08-28,Second Class,Consumer,Central,New York,Miami,Technology,Phones,64.78,3,0.2,1.49
+CA-2023-797798,2023-08-23,2023-08-30,First Class,Corporate,Central,California,Los Angeles,Technology,Accessories,25.9,2,0.1,3.64
+CA-2024-300083,2023-08-27,2023-08-28,Second Class,Home Office,Central,California,Los Angeles,Office Supplies,Binders,64.62,1,0.0,-2.11
+CA-2024-993962,2023-08-29,2023-09-05,Second Class,Corporate,Central,Georgia,New York City,Furniture,Chairs,97.05,6,0.0,10.29
+CA-2023-935401,2023-08-30,2023-09-03,Second Class,Home Office,West,Florida,Miami,Technology,Phones,20.97,3,0.0,-0.38
+CA-2024-579284,2023-09-01,2023-09-02,Same Day,Home Office,West,Georgia,Seattle,Technology,Phones,69.23,7,0.3,8.07
+CA-2023-211752,2023-09-03,2023-09-04,Second Class,Corporate,Central,Florida,Atlanta,Office Supplies,Paper,89.8,5,0.0,7.45
+CA-2024-153002,2023-09-04,2023-09-05,Second Class,Corporate,South,Ohio,New York City,Office Supplies,Paper,80.75,4,0.0,13.7
+CA-2024-418666,2023-09-05,2023-09-09,Second Class,Consumer,Central,Ohio,San Francisco,Office Supplies,Paper,25.38,1,0.0,4.19
+CA-2024-268741,2023-09-05,2023-09-11,Second Class,Corporate,East,Florida,San Francisco,Technology,Accessories,37.33,7,0.0,-0.03
+CA-2024-568952,2023-09-08,2023-09-09,First Class,Corporate,West,Washington,San Francisco,Office Supplies,Storage,95.43,3,0.0,0.66
+CA-2024-814146,2023-09-12,2023-09-19,Standard Class,Corporate,Central,Washington,Chicago,Technology,Copiers,34.31,5,0.2,2.23
+CA-2024-604973,2023-09-13,2023-09-16,First Class,Consumer,West,Georgia,Los Angeles,Office Supplies,Storage,139.56,5,0.0,20.94
+CA-2023-936093,2023-09-13,2023-09-19,Standard Class,Corporate,East,Pennsylvania,Philadelphia,Technology,Machines,56.47,4,0.1,0.55
+CA-2023-269291,2023-09-15,2023-09-22,First Class,Consumer,East,Washington,Houston,Furniture,Chairs,210.26,3,0.2,0.44
+CA-2024-819081,2023-09-16,2023-09-21,Same Day,Home Office,Central,New York,San Francisco,Furniture,Bookcases,59.83,2,0.0,-0.97
+CA-2024-844173,2023-09-16,2023-09-17,First Class,Home Office,Central,Illinois,New York City,Office Supplies,Binders,56.5,6,0.3,0.8
+CA-2024-220829,2023-09-18,2023-09-19,First Class,Home Office,East,California,Chicago,Office Supplies,Storage,41.14,2,0.3,4.48
+CA-2024-142624,2023-09-18,2023-09-25,Same Day,Consumer,South,New York,Los Angeles,Furniture,Furnishings,27.32,4,0.0,-0.63
+CA-2024-452862,2023-09-18,2023-09-23,Same Day,Corporate,West,Illinois,Houston,Furniture,Chairs,23.64,1,0.3,2.13
+CA-2023-467452,2023-09-23,2023-09-26,Same Day,Corporate,West,Illinois,Charlotte,Technology,Copiers,30.84,1,0.2,-0.82
+CA-2024-414998,2023-09-23,2023-09-29,Standard Class,Consumer,West,Washington,Philadelphia,Technology,Machines,46.21,7,0.2,1.35
+CA-2024-463701,2023-09-24,2023-09-30,Standard Class,Home Office,South,Pennsylvania,Seattle,Technology,Accessories,38.18,1,0.0,-2.44
+CA-2024-538993,2023-09-25,2023-10-02,Same Day,Home Office,Central,Ohio,New York City,Technology,Phones,25.21,4,0.0,-1.0
+CA-2024-369502,2023-09-25,2023-10-02,Same Day,Consumer,West,Illinois,Atlanta,Furniture,Bookcases,44.17,2,0.1,-2.66
+CA-2023-505880,2023-09-26,2023-10-02,Same Day,Corporate,East,California,Seattle,Office Supplies,Storage,41.41,1,0.2,2.49
+CA-2024-746655,2023-09-27,2023-10-02,Second Class,Home Office,West,Washington,Los Angeles,Technology,Phones,60.44,6,0.2,-2.29
+CA-2024-633366,2023-10-02,2023-10-07,Standard Class,Home Office,East,Pennsylvania,Charlotte,Office Supplies,Storage,56.95,2,0.3,2.16
+CA-2023-441883,2023-10-03,2023-10-10,Same Day,Home Office,Central,Florida,Philadelphia,Technology,Machines,84.35,3,0.0,10.3
+CA-2023-356331,2023-10-04,2023-10-09,Standard Class,Consumer,Central,Washington,Miami,Technology,Copiers,68.95,1,0.0,-2.67
+CA-2024-447810,2023-10-04,2023-10-08,Same Day,Consumer,West,California,San Francisco,Furniture,Bookcases,25.16,2,0.3,-0.02
+CA-2024-500164,2023-10-07,2023-10-10,Standard Class,Corporate,Central,Georgia,Charlotte,Office Supplies,Paper,59.79,7,0.0,8.03
+CA-2024-628840,2023-10-10,2023-10-12,Standard Class,Consumer,East,New York,Miami,Furniture,Bookcases,32.27,1,0.1,2.58
+CA-2023-279057,2023-10-14,2023-10-20,Same Day,Corporate,Central,Florida,Houston,Furniture,Bookcases,72.47,2,0.1,10.94
+CA-2023-512993,2023-10-15,2023-10-22,Standard Class,Home Office,West,California,Houston,Furniture,Bookcases,33.77,7,0.1,1.52
+CA-2023-621944,2023-10-15,2023-10-19,Standard Class,Consumer,South,North Carolina,Chicago,Office Supplies,Appliances,88.66,2,0.3,2.2
+CA-2023-380414,2023-10-16,2023-10-17,Same Day,Home Office,Central,Pennsylvania,Charlotte,Technology,Accessories,16.01,3,0.1,1.32
+CA-2023-826381,2023-10-18,2023-10-24,First Class,Corporate,South,Georgia,Seattle,Office Supplies,Appliances,62.8,5,0.2,1.43
+CA-2023-479976,2023-10-18,2023-10-19,Second Class,Consumer,Central,North Carolina,Chicago,Furniture,Furnishings,46.09,5,0.0,4.46
+CA-2023-135543,2023-10-18,2023-10-24,Second Class,Home Office,South,Texas,Miami,Technology,Machines,26.85,1,0.1,-0.22
+CA-2024-440150,2023-10-20,2023-10-23,Second Class,Consumer,East,Pennsylvania,Los Angeles,Office Supplies,Appliances,43.49,6,0.3,4.31
+CA-2024-346219,2023-10-20,2023-10-24,First Class,Consumer,South,Ohio,Philadelphia,Furniture,Chairs,62.31,2,0.0,0.88
+CA-2023-313635,2023-10-21,2023-10-27,Second Class,Consumer,Central,New York,Los Angeles,Furniture,Tables,86.87,2,0.0,-1.69
+CA-2023-610835,2023-10-23,2023-10-27,Same Day,Consumer,West,New York,New York City,Office Supplies,Binders,84.58,1,0.0,7.99
+CA-2024-291543,2023-10-26,2023-10-31,Same Day,Consumer,Central,Washington,Seattle,Technology,Accessories,70.6,1,0.3,7.79
+CA-2024-888046,2023-10-29,2023-10-31,Second Class,Corporate,Central,New York,Miami,Furniture,Tables,57.84,1,0.1,-1.86
+CA-2024-264289,2023-10-31,2023-11-06,Standard Class,Consumer,East,Washington,New York City,Technology,Copiers,42.41,2,0.0,3.23
+CA-2023-171203,2023-11-01,2023-11-08,First Class,Corporate,South,Ohio,Seattle,Furniture,Furnishings,178.63,1,0.1,26.5
+CA-2023-688386,2023-11-06,2023-11-08,Second Class,Corporate,Central,Florida,Chicago,Office Supplies,Binders,47.97,5,0.0,3.6
+CA-2024-129730,2023-11-07,2023-11-10,First Class,Corporate,West,Texas,Philadelphia,Technology,Accessories,33.58,1,0.0,-0.57
+CA-2024-851445,2023-11-08,2023-11-10,First Class,Corporate,Central,California,San Francisco,Technology,Accessories,42.94,5,0.2,-1.03
+CA-2023-980803,2023-11-09,2023-11-15,Same Day,Consumer,South,New York,Chicago,Technology,Copiers,21.46,7,0.2,-0.74
+CA-2024-172391,2023-11-10,2023-11-16,Standard Class,Consumer,West,Illinois,Chicago,Office Supplies,Binders,48.42,1,0.1,2.12
+CA-2024-907275,2023-11-10,2023-11-11,Same Day,Consumer,West,Washington,San Francisco,Furniture,Bookcases,93.56,5,0.2,7.29
+CA-2023-770314,2023-11-12,2023-11-16,First Class,Home Office,Central,Pennsylvania,Philadelphia,Office Supplies,Appliances,49.94,6,0.0,0.03
+CA-2023-145915,2023-11-14,2023-11-18,Same Day,Home Office,East,Georgia,Columbus,Furniture,Bookcases,104.41,5,0.3,1.85
+CA-2023-910091,2023-11-17,2023-11-20,Same Day,Home Office,East,Illinois,New York City,Technology,Machines,65.4,5,0.3,-0.23
+CA-2023-166266,2023-11-19,2023-11-20,Same Day,Home Office,West,Florida,Charlotte,Furniture,Bookcases,75.74,5,0.0,12.93
+CA-2023-554882,2023-11-22,2023-11-26,Second Class,Consumer,West,Florida,Seattle,Technology,Phones,59.61,1,0.2,-0.35
+CA-2023-152754,2023-11-26,2023-12-01,Same Day,Consumer,Central,Ohio,Charlotte,Technology,Phones,131.87,2,0.1,18.54
+CA-2024-706084,2023-11-28,2023-12-01,Second Class,Corporate,East,Washington,Philadelphia,Office Supplies,Paper,98.68,7,0.1,2.83
+CA-2023-279015,2023-11-28,2023-11-30,First Class,Corporate,Central,New York,Houston,Office Supplies,Appliances,56.08,6,0.2,4.23
+CA-2023-350015,2023-11-29,2023-12-02,Standard Class,Consumer,Central,North Carolina,Philadelphia,Technology,Phones,24.99,7,0.2,1.73
+CA-2024-846255,2023-11-29,2023-12-05,Standard Class,Corporate,South,Georgia,Houston,Furniture,Chairs,82.44,1,0.0,7.92
+CA-2023-887765,2023-11-30,2023-12-02,Second Class,Home Office,South,Pennsylvania,Houston,Office Supplies,Appliances,20.17,6,0.1,2.63
+CA-2024-287545,2023-12-02,2023-12-04,Standard Class,Corporate,West,Georgia,Philadelphia,Office Supplies,Art,146.06,3,0.0,14.26
+CA-2023-894041,2023-12-04,2023-12-09,First Class,Home Office,East,Georgia,New York City,Office Supplies,Appliances,54.92,2,0.0,-3.84
+CA-2024-406591,2023-12-05,2023-12-07,First Class,Consumer,Central,North Carolina,Los Angeles,Office Supplies,Art,55.99,7,0.0,-0.9
+CA-2023-795855,2023-12-08,2023-12-14,Second Class,Consumer,South,New York,Charlotte,Technology,Machines,85.84,6,0.3,-0.64
+CA-2023-832544,2023-12-09,2023-12-14,Standard Class,Home Office,West,Washington,Chicago,Office Supplies,Appliances,144.69,2,0.2,5.55
+CA-2024-504566,2023-12-10,2023-12-11,First Class,Home Office,West,New York,Houston,Technology,Machines,81.63,3,0.3,1.85
+CA-2024-971464,2023-12-12,2023-12-14,Second Class,Corporate,Central,California,New York City,Furniture,Tables,98.27,5,0.3,8.37
+CA-2023-751396,2023-12-13,2023-12-20,Second Class,Consumer,South,Washington,Houston,Office Supplies,Appliances,56.29,2,0.3,2.24
+CA-2023-679689,2023-12-15,2023-12-16,Standard Class,Consumer,Central,Georgia,Charlotte,Furniture,Chairs,37.99,3,0.0,-2.1
+CA-2024-456644,2023-12-15,2023-12-19,First Class,Home Office,South,North Carolina,Philadelphia,Technology,Phones,51.38,2,0.2,1.51
+CA-2023-977645,2023-12-16,2023-12-17,Second Class,Consumer,West,Florida,Chicago,Furniture,Tables,57.04,4,0.1,-3.46
+CA-2024-418493,2023-12-16,2023-12-23,Standard Class,Home Office,Central,Georgia,Seattle,Furniture,Chairs,91.3,4,0.0,16.37
+CA-2023-369752,2023-12-16,2023-12-17,Second Class,Home Office,South,Illinois,Seattle,Furniture,Furnishings,34.07,2,0.3,0.43
+CA-2023-968739,2023-12-21,2023-12-22,First Class,Consumer,East,Georgia,Columbus,Office Supplies,Storage,68.85,5,0.3,3.84
+CA-2024-404985,2023-12-23,2023-12-25,First Class,Corporate,South,Ohio,San Francisco,Office Supplies,Binders,20.67,7,0.3,1.82
+CA-2023-213136,2023-12-26,2023-12-28,Same Day,Consumer,Central,Georgia,Chicago,Furniture,Chairs,25.87,7,0.0,-1.38
+CA-2024-940043,2023-12-26,2024-01-02,Standard Class,Consumer,Central,Ohio,Houston,Technology,Phones,88.18,5,0.3,0.6
+CA-2024-617568,2023-12-30,2023-12-31,First Class,Consumer,West,New York,Chicago,Furniture,Tables,70.58,7,0.0,7.89
+CA-2023-432900,2023-12-31,2024-01-04,Same Day,Corporate,West,New York,Seattle,Furniture,Furnishings,17.29,2,0.2,-0.69
+CA-2024-954634,2024-01-02,2024-01-03,Same Day,Home Office,West,Illinois,Columbus,Technology,Machines,37.48,6,0.2,-0.63
+CA-2024-231587,2024-01-02,2024-01-03,Standard Class,Corporate,South,Pennsylvania,Chicago,Office Supplies,Appliances,76.03,2,0.0,2.09
+CA-2024-401450,2024-01-04,2024-01-09,Second Class,Home Office,South,North Carolina,Houston,Office Supplies,Binders,79.5,2,0.3,-3.48
+CA-2024-170033,2024-01-04,2024-01-10,Standard Class,Home Office,East,North Carolina,Chicago,Furniture,Bookcases,58.3,3,0.3,6.67
+CA-2024-807694,2024-01-05,2024-01-08,Second Class,Corporate,Central,Pennsylvania,Philadelphia,Office Supplies,Art,76.86,3,0.0,9.17
+CA-2024-418120,2024-01-06,2024-01-11,Second Class,Corporate,West,New York,Seattle,Technology,Phones,40.34,6,0.0,7.21
+CA-2024-674666,2024-01-09,2024-01-12,Same Day,Consumer,South,New York,Chicago,Technology,Copiers,119.4,6,0.0,15.42
+CA-2024-631298,2024-01-10,2024-01-14,First Class,Home Office,East,Washington,Miami,Technology,Machines,59.53,1,0.3,2.34
+CA-2023-488818,2024-01-12,2024-01-17,First Class,Corporate,South,Illinois,New York City,Technology,Machines,57.74,6,0.1,-3.14
+CA-2024-318898,2024-01-12,2024-01-14,Standard Class,Home Office,East,Pennsylvania,San Francisco,Furniture,Tables,97.2,1,0.2,-1.78
+CA-2023-567953,2024-01-14,2024-01-21,Second Class,Corporate,Central,Georgia,Columbus,Office Supplies,Storage,21.07,4,0.3,0.25
+CA-2023-582331,2024-01-16,2024-01-17,Same Day,Home Office,East,Washington,Atlanta,Technology,Phones,55.59,2,0.3,-2.63
+CA-2024-397362,2024-01-16,2024-01-20,First Class,Consumer,South,California,Houston,Office Supplies,Appliances,26.59,1,0.0,2.21
+CA-2024-838654,2024-01-18,2024-01-19,Same Day,Corporate,East,Ohio,Los Angeles,Office Supplies,Storage,31.47,2,0.2,1.11
+CA-2023-691830,2024-01-19,2024-01-22,Same Day,Consumer,East,Illinois,Philadelphia,Technology,Phones,58.06,7,0.0,3.24
+CA-2024-707294,2024-01-22,2024-01-25,Same Day,Corporate,East,California,Seattle,Office Supplies,Art,61.85,3,0.0,6.27
+CA-2024-253723,2024-01-27,2024-01-31,Standard Class,Home Office,Central,New York,Houston,Technology,Phones,61.43,5,0.0,-3.55
+CA-2023-189225,2024-01-27,2024-02-02,Standard Class,Consumer,East,Illinois,San Francisco,Technology,Phones,70.93,2,0.3,1.69
+CA-2024-101814,2024-01-28,2024-01-30,Second Class,Corporate,West,Georgia,New York City,Office Supplies,Paper,68.65,3,0.2,-2.28
+CA-2024-903059,2024-01-29,2024-02-01,Second Class,Consumer,South,Washington,Houston,Furniture,Tables,49.77,7,0.1,-2.8
+CA-2024-684846,2024-01-30,2024-02-01,First Class,Home Office,East,North Carolina,Charlotte,Furniture,Furnishings,50.81,1,0.0,-1.47
+CA-2024-276211,2024-02-03,2024-02-09,Standard Class,Corporate,West,Washington,Houston,Technology,Copiers,64.17,2,0.0,-3.54
+CA-2023-834445,2024-02-03,2024-02-09,Same Day,Consumer,South,Texas,Columbus,Technology,Phones,38.86,3,0.1,2.21
+CA-2024-540975,2024-02-05,2024-02-06,First Class,Home Office,Central,New York,Seattle,Office Supplies,Art,59.16,5,0.0,10.45
+CA-2023-430084,2024-02-05,2024-02-07,Standard Class,Corporate,Central,Pennsylvania,Atlanta,Furniture,Tables,155.51,3,0.0,21.79
+CA-2024-435707,2024-02-05,2024-02-08,Second Class,Corporate,East,Georgia,Miami,Technology,Copiers,25.52,7,0.1,3.07
+CA-2023-639214,2024-02-05,2024-02-06,Same Day,Consumer,South,New York,Charlotte,Furniture,Chairs,120.2,1,0.0,-0.39
+CA-2024-883969,2024-02-06,2024-02-07,Standard Class,Home Office,West,New York,Miami,Technology,Accessories,60.59,2,0.0,7.86
+CA-2023-197096,2024-02-07,2024-02-12,First Class,Consumer,South,Pennsylvania,Charlotte,Technology,Copiers,22.41,4,0.0,0.19
+CA-2024-896452,2024-02-09,2024-02-16,Second Class,Consumer,West,Ohio,Seattle,Technology,Accessories,117.24,6,0.0,9.29
+CA-2023-168617,2024-02-10,2024-02-11,Same Day,Home Office,Central,California,Seattle,Furniture,Bookcases,156.1,4,0.0,23.89
+CA-2024-759975,2024-02-11,2024-02-18,Standard Class,Home Office,South,Texas,Charlotte,Technology,Accessories,26.26,3,0.2,0.82
+CA-2024-130111,2024-02-11,2024-02-12,Second Class,Corporate,West,Pennsylvania,San Francisco,Technology,Copiers,34.53,6,0.3,-0.31
+CA-2024-906134,2024-02-11,2024-02-16,Second Class,Consumer,West,New York,Los Angeles,Office Supplies,Storage,53.07,7,0.0,7.59
+CA-2024-452196,2024-02-15,2024-02-21,Same Day,Home Office,West,New York,Chicago,Office Supplies,Binders,47.31,1,0.0,2.2
+CA-2023-730326,2024-02-18,2024-02-20,Same Day,Home Office,West,Washington,Los Angeles,Office Supplies,Storage,56.97,7,0.3,4.63
+CA-2024-357896,2024-02-18,2024-02-21,Second Class,Home Office,West,Ohio,Los Angeles,Technology,Accessories,68.77,4,0.0,11.26
+CA-2024-896129,2024-02-20,2024-02-27,Same Day,Corporate,East,Georgia,Seattle,Furniture,Furnishings,36.99,6,0.2,3.7
+CA-2023-723609,2024-02-21,2024-02-26,First Class,Corporate,West,New York,Columbus,Technology,Machines,37.49,1,0.1,2.16
+CA-2023-461615,2024-02-26,2024-03-01,Second Class,Home Office,West,California,Los Angeles,Furniture,Chairs,40.15,5,0.0,0.98
+CA-2023-786637,2024-02-29,2024-03-01,Standard Class,Consumer,South,Texas,New York City,Office Supplies,Art,87.76,7,0.0,1.74
+CA-2024-898690,2024-03-01,2024-03-07,Standard Class,Home Office,West,Ohio,New York City,Furniture,Tables,49.5,4,0.0,3.46
+CA-2023-711249,2024-03-03,2024-03-08,First Class,Consumer,West,New York,Columbus,Furniture,Tables,59.92,6,0.2,0.6
+CA-2023-710542,2024-03-03,2024-03-05,Standard Class,Corporate,East,Ohio,Atlanta,Office Supplies,Storage,76.35,1,0.0,13.12
+CA-2024-122317,2024-03-04,2024-03-05,Same Day,Consumer,West,Ohio,San Francisco,Furniture,Tables,30.34,6,0.0,2.77
+CA-2023-727119,2024-03-04,2024-03-09,Same Day,Consumer,West,Florida,Miami,Furniture,Bookcases,17.07,2,0.3,0.78
+CA-2023-953851,2024-03-05,2024-03-06,Same Day,Consumer,West,Georgia,New York City,Office Supplies,Binders,73.96,3,0.0,10.78
+CA-2023-207151,2024-03-08,2024-03-15,First Class,Home Office,Central,Ohio,New York City,Office Supplies,Art,73.9,4,0.1,6.79
+CA-2024-883875,2024-03-09,2024-03-14,Second Class,Corporate,West,Illinois,Chicago,Technology,Phones,41.17,3,0.1,0.23
+CA-2024-281604,2024-03-10,2024-03-14,Second Class,Consumer,South,Ohio,Atlanta,Furniture,Tables,45.79,2,0.0,3.42
+CA-2024-322369,2024-03-10,2024-03-11,Standard Class,Consumer,Central,California,Philadelphia,Furniture,Furnishings,43.61,4,0.0,6.09
+CA-2023-246178,2024-03-12,2024-03-17,Same Day,Corporate,South,California,Los Angeles,Office Supplies,Paper,118.05,6,0.2,1.2
+CA-2024-587926,2024-03-12,2024-03-13,Second Class,Corporate,West,Pennsylvania,Philadelphia,Technology,Accessories,82.82,1,0.0,2.34
+CA-2024-184387,2024-03-14,2024-03-16,Same Day,Consumer,East,New York,Houston,Furniture,Furnishings,59.65,6,0.1,-0.34
+CA-2024-515595,2024-03-15,2024-03-20,First Class,Consumer,East,Texas,Seattle,Office Supplies,Storage,91.65,4,0.2,8.79
+CA-2023-563585,2024-03-16,2024-03-19,First Class,Home Office,East,Ohio,Los Angeles,Technology,Copiers,35.32,4,0.0,-2.28
+CA-2024-873768,2024-03-19,2024-03-22,First Class,Corporate,South,Illinois,Atlanta,Technology,Phones,155.71,6,0.0,-10.63
+CA-2023-863892,2024-03-19,2024-03-22,Standard Class,Consumer,Central,New York,San Francisco,Technology,Accessories,96.75,1,0.2,5.6
+CA-2024-287193,2024-03-20,2024-03-24,Same Day,Home Office,Central,New York,Chicago,Furniture,Furnishings,62.04,2,0.3,-0.33
+CA-2023-764690,2024-03-20,2024-03-22,Standard Class,Consumer,West,Washington,Los Angeles,Furniture,Tables,96.48,3,0.0,17.25
+CA-2024-614858,2024-03-24,2024-03-26,Standard Class,Corporate,South,Ohio,San Francisco,Technology,Copiers,51.29,2,0.0,-1.08
+CA-2023-188586,2024-03-24,2024-03-27,Second Class,Home Office,South,Illinois,Philadelphia,Office Supplies,Binders,56.8,4,0.0,5.9
+CA-2024-549183,2024-03-26,2024-03-29,Second Class,Corporate,West,California,Charlotte,Office Supplies,Binders,58.15,7,0.2,4.61
+CA-2024-480606,2024-04-01,2024-04-02,First Class,Corporate,West,Florida,Miami,Office Supplies,Paper,28.02,2,0.3,3.22
+CA-2024-204638,2024-04-01,2024-04-05,First Class,Consumer,East,Pennsylvania,San Francisco,Technology,Copiers,23.81,1,0.0,2.78
+CA-2024-956528,2024-04-03,2024-04-08,Standard Class,Home Office,East,Illinois,Miami,Furniture,Furnishings,106.86,3,0.2,12.39
+CA-2023-981387,2024-04-05,2024-04-12,Same Day,Corporate,West,Florida,Seattle,Furniture,Chairs,67.0,4,0.1,-2.45
+CA-2024-974858,2024-04-06,2024-04-07,Same Day,Corporate,West,Georgia,Seattle,Furniture,Bookcases,14.91,1,0.1,0.21
+CA-2024-381042,2024-04-06,2024-04-10,Same Day,Consumer,West,Florida,New York City,Office Supplies,Storage,68.27,7,0.3,8.58
+CA-2023-590456,2024-04-07,2024-04-14,Second Class,Home Office,West,Pennsylvania,Philadelphia,Technology,Copiers,44.54,7,0.0,5.2
+CA-2023-314578,2024-04-09,2024-04-12,First Class,Home Office,Central,Texas,New York City,Technology,Machines,51.52,5,0.2,5.44
+CA-2023-838611,2024-04-13,2024-04-14,Standard Class,Consumer,West,Pennsylvania,Philadelphia,Technology,Phones,81.82,6,0.0,1.91
+CA-2023-490017,2024-04-14,2024-04-21,Second Class,Corporate,Central,Pennsylvania,Columbus,Office Supplies,Art,82.2,6,0.3,9.12
+CA-2024-435711,2024-04-15,2024-04-16,First Class,Corporate,South,Florida,Miami,Furniture,Furnishings,40.04,1,0.0,6.47
+CA-2023-125434,2024-04-19,2024-04-23,Second Class,Consumer,South,Ohio,Chicago,Office Supplies,Storage,55.81,6,0.0,-0.02
+CA-2023-377342,2024-04-20,2024-04-26,Same Day,Consumer,East,Ohio,Philadelphia,Furniture,Furnishings,46.98,3,0.3,-1.34
+CA-2024-906603,2024-04-20,2024-04-25,Same Day,Corporate,West,Pennsylvania,Los Angeles,Office Supplies,Binders,101.53,5,0.3,-0.71
+CA-2024-102372,2024-04-21,2024-04-22,Standard Class,Consumer,West,Georgia,Columbus,Technology,Copiers,48.04,3,0.0,2.52
+CA-2023-632365,2024-04-21,2024-04-28,Second Class,Corporate,Central,North Carolina,New York City,Technology,Accessories,27.28,2,0.0,2.63
+CA-2023-858036,2024-04-22,2024-04-24,Standard Class,Corporate,South,Illinois,Chicago,Office Supplies,Binders,117.96,1,0.0,16.34
+CA-2023-775814,2024-04-24,2024-04-26,First Class,Home Office,Central,Washington,San Francisco,Furniture,Bookcases,199.8,5,0.0,18.02
+CA-2024-118354,2024-04-26,2024-05-02,First Class,Corporate,West,Georgia,Philadelphia,Technology,Accessories,102.74,5,0.0,-6.63
+CA-2024-917040,2024-04-26,2024-04-30,First Class,Corporate,West,Ohio,Atlanta,Furniture,Furnishings,61.31,1,0.2,1.87
+CA-2023-536397,2024-04-26,2024-05-03,First Class,Corporate,Central,New York,Miami,Office Supplies,Art,21.42,2,0.1,2.01
+CA-2024-525667,2024-04-28,2024-04-30,Second Class,Home Office,South,Illinois,San Francisco,Office Supplies,Paper,49.94,4,0.1,-1.46
+CA-2023-484024,2024-05-01,2024-05-07,Same Day,Consumer,East,California,Seattle,Office Supplies,Appliances,38.61,2,0.0,1.26
+CA-2024-220668,2024-05-03,2024-05-05,Standard Class,Home Office,Central,Ohio,Columbus,Office Supplies,Storage,31.73,7,0.1,3.94
+CA-2023-482134,2024-05-05,2024-05-07,Standard Class,Home Office,East,New York,Miami,Furniture,Bookcases,44.65,7,0.0,-1.68
+CA-2024-414382,2024-05-05,2024-05-09,First Class,Home Office,South,Georgia,Columbus,Furniture,Chairs,75.98,2,0.0,2.95
+CA-2023-871318,2024-05-09,2024-05-11,Standard Class,Corporate,West,Ohio,New York City,Technology,Machines,70.39,4,0.0,3.15
+CA-2024-805396,2024-05-09,2024-05-12,Same Day,Consumer,Central,Florida,Los Angeles,Furniture,Bookcases,77.8,1,0.2,8.68
+CA-2024-561853,2024-05-09,2024-05-12,Standard Class,Corporate,Central,Georgia,Atlanta,Technology,Copiers,81.44,5,0.0,7.78
+CA-2023-606185,2024-05-10,2024-05-15,First Class,Consumer,South,New York,Atlanta,Office Supplies,Art,44.54,2,0.0,4.66
+CA-2023-561349,2024-05-10,2024-05-14,Standard Class,Home Office,East,Florida,Chicago,Office Supplies,Binders,124.43,4,0.1,3.63
+CA-2024-828776,2024-05-11,2024-05-14,Standard Class,Corporate,South,Texas,Columbus,Furniture,Bookcases,70.9,1,0.1,6.85
+CA-2024-155218,2024-05-12,2024-05-16,Standard Class,Consumer,West,California,Charlotte,Office Supplies,Appliances,22.84,3,0.3,0.89
+CA-2024-150097,2024-05-12,2024-05-18,Second Class,Corporate,East,North Carolina,Charlotte,Office Supplies,Appliances,136.13,6,0.3,6.86
+CA-2024-527236,2024-05-16,2024-05-17,Second Class,Consumer,East,California,Chicago,Furniture,Bookcases,85.82,7,0.0,0.4
+CA-2023-208061,2024-05-17,2024-05-20,Second Class,Corporate,West,Georgia,San Francisco,Furniture,Chairs,43.69,6,0.2,3.6
+CA-2023-344178,2024-05-21,2024-05-27,Same Day,Home Office,Central,Georgia,Miami,Technology,Phones,52.79,3,0.2,-0.91
+CA-2024-515779,2024-05-27,2024-05-28,First Class,Home Office,Central,California,Atlanta,Furniture,Tables,46.74,5,0.1,-0.54
+CA-2024-522656,2024-05-27,2024-06-03,Standard Class,Home Office,Central,Illinois,Chicago,Office Supplies,Art,46.44,1,0.0,1.15
+CA-2023-658463,2024-05-27,2024-05-29,First Class,Home Office,East,North Carolina,Seattle,Technology,Copiers,43.73,2,0.0,3.98
+CA-2024-798674,2024-05-31,2024-06-04,Same Day,Consumer,Central,Ohio,Houston,Technology,Machines,47.32,2,0.0,-2.47
+CA-2023-715800,2024-05-31,2024-06-01,First Class,Corporate,Central,Texas,Houston,Technology,Accessories,59.12,3,0.3,4.22
+CA-2023-478231,2024-05-31,2024-06-04,Same Day,Corporate,West,Florida,San Francisco,Furniture,Furnishings,93.74,7,0.1,-5.88
+CA-2024-395444,2024-06-01,2024-06-04,Same Day,Consumer,West,Pennsylvania,Philadelphia,Office Supplies,Binders,71.8,4,0.2,-1.3
+CA-2023-308615,2024-06-03,2024-06-06,First Class,Home Office,South,New York,Philadelphia,Office Supplies,Binders,25.0,3,0.0,3.6
+CA-2023-840159,2024-06-04,2024-06-11,Second Class,Consumer,East,Florida,Columbus,Technology,Phones,30.47,6,0.0,-0.65
+CA-2023-202304,2024-06-05,2024-06-06,Same Day,Corporate,South,Texas,Los Angeles,Office Supplies,Art,108.39,4,0.0,-7.54
+CA-2023-377000,2024-06-06,2024-06-09,Standard Class,Consumer,South,North Carolina,Los Angeles,Furniture,Tables,58.7,3,0.2,-0.66
+CA-2023-130703,2024-06-08,2024-06-14,Same Day,Home Office,Central,California,Los Angeles,Furniture,Furnishings,59.87,2,0.2,5.81
+CA-2024-277124,2024-06-11,2024-06-16,Standard Class,Consumer,Central,Florida,Houston,Furniture,Furnishings,21.5,5,0.1,1.33
+CA-2024-731118,2024-06-13,2024-06-14,Same Day,Consumer,East,California,Los Angeles,Technology,Copiers,75.47,7,0.2,1.12
+CA-2023-372343,2024-06-16,2024-06-19,Same Day,Consumer,West,Georgia,Atlanta,Technology,Machines,45.34,5,0.2,-0.83
+CA-2024-525006,2024-06-17,2024-06-18,First Class,Consumer,West,Pennsylvania,Los Angeles,Office Supplies,Storage,40.82,6,0.3,4.95
+CA-2024-184495,2024-06-19,2024-06-21,Second Class,Corporate,South,Georgia,Houston,Furniture,Tables,214.59,7,0.1,15.89
+CA-2024-470098,2024-06-20,2024-06-22,Same Day,Home Office,South,Illinois,Los Angeles,Technology,Machines,31.49,3,0.0,-0.02
+CA-2023-331821,2024-06-21,2024-06-24,Standard Class,Home Office,East,Florida,Chicago,Technology,Phones,46.04,2,0.2,1.24
+CA-2024-985561,2024-06-22,2024-06-23,Same Day,Home Office,West,Florida,Miami,Office Supplies,Appliances,50.8,1,0.0,8.09
+CA-2023-301655,2024-06-23,2024-06-25,Standard Class,Consumer,Central,Illinois,Atlanta,Office Supplies,Appliances,65.24,2,0.2,6.76
+CA-2023-846755,2024-06-27,2024-07-03,Second Class,Home Office,South,Florida,New York City,Office Supplies,Art,16.92,6,0.0,1.57
+CA-2023-383778,2024-06-29,2024-06-30,Standard Class,Home Office,Central,California,Seattle,Technology,Copiers,32.95,4,0.3,3.36
+CA-2023-887799,2024-06-29,2024-07-06,Second Class,Corporate,South,New York,Chicago,Office Supplies,Paper,78.04,3,0.2,-0.25
+CA-2024-812638,2024-06-30,2024-07-01,First Class,Corporate,West,Ohio,Seattle,Technology,Accessories,43.72,7,0.0,5.94
+CA-2023-427064,2024-07-02,2024-07-07,First Class,Home Office,West,California,San Francisco,Furniture,Tables,100.92,6,0.2,10.85
+CA-2023-385911,2024-07-03,2024-07-06,Same Day,Corporate,West,Georgia,Houston,Office Supplies,Appliances,138.75,4,0.0,3.09
+CA-2024-455589,2024-07-04,2024-07-11,Same Day,Consumer,Central,Illinois,San Francisco,Furniture,Tables,36.06,5,0.0,0.12
+CA-2023-752684,2024-07-04,2024-07-07,Standard Class,Home Office,South,North Carolina,Chicago,Furniture,Furnishings,56.61,2,0.1,-0.91
+CA-2023-607475,2024-07-06,2024-07-09,Second Class,Home Office,South,New York,Los Angeles,Office Supplies,Appliances,40.58,7,0.0,6.58
+CA-2023-299868,2024-07-08,2024-07-11,Standard Class,Consumer,South,Texas,San Francisco,Office Supplies,Binders,44.67,4,0.1,0.86
+CA-2023-636750,2024-07-09,2024-07-16,Second Class,Corporate,East,Washington,Chicago,Furniture,Bookcases,31.16,7,0.0,2.02
+CA-2023-698265,2024-07-09,2024-07-12,First Class,Consumer,East,Florida,Columbus,Office Supplies,Storage,34.65,6,0.0,1.42
+CA-2023-113223,2024-07-09,2024-07-12,First Class,Corporate,East,New York,Philadelphia,Technology,Accessories,147.4,4,0.0,11.72
+CA-2024-714133,2024-07-13,2024-07-19,Same Day,Consumer,Central,Texas,Seattle,Office Supplies,Paper,56.39,4,0.0,2.93
+CA-2024-105015,2024-07-14,2024-07-15,Standard Class,Home Office,West,New York,Seattle,Office Supplies,Paper,80.91,3,0.0,1.88
+CA-2023-258498,2024-07-15,2024-07-22,Second Class,Home Office,East,Georgia,San Francisco,Office Supplies,Paper,89.42,3,0.2,-0.16
+CA-2024-439599,2024-07-15,2024-07-19,Second Class,Corporate,East,Pennsylvania,Los Angeles,Technology,Accessories,55.41,3,0.0,-1.41
+CA-2024-291825,2024-07-20,2024-07-27,Standard Class,Home Office,Central,Texas,Atlanta,Office Supplies,Art,31.14,7,0.1,4.11
+CA-2024-328217,2024-07-20,2024-07-27,Standard Class,Corporate,Central,Texas,Los Angeles,Office Supplies,Binders,45.35,5,0.0,0.94
+CA-2023-130444,2024-07-27,2024-07-31,Standard Class,Consumer,East,Georgia,Philadelphia,Furniture,Tables,68.44,1,0.0,3.45
+CA-2024-834994,2024-07-28,2024-08-03,Same Day,Corporate,South,Texas,San Francisco,Furniture,Chairs,58.14,5,0.2,1.82
+CA-2023-864523,2024-07-29,2024-07-30,First Class,Home Office,West,Florida,Houston,Furniture,Tables,14.81,1,0.1,0.69
+CA-2023-494974,2024-07-30,2024-08-05,Same Day,Home Office,South,North Carolina,Seattle,Furniture,Bookcases,64.88,7,0.2,3.78
+CA-2024-914983,2024-08-02,2024-08-07,First Class,Corporate,South,Illinois,Houston,Technology,Phones,282.17,1,0.2,29.01
+CA-2023-178237,2024-08-02,2024-08-06,Standard Class,Consumer,Central,Illinois,New York City,Office Supplies,Art,63.48,3,0.0,-3.12
+CA-2024-189132,2024-08-02,2024-08-08,Standard Class,Consumer,East,Washington,Atlanta,Technology,Phones,47.34,5,0.3,0.16
+CA-2024-976127,2024-08-03,2024-08-04,Second Class,Home Office,East,North Carolina,Seattle,Technology,Accessories,59.2,3,0.1,4.67
+CA-2023-616550,2024-08-04,2024-08-11,Standard Class,Corporate,South,Illinois,Chicago,Furniture,Tables,68.04,3,0.0,2.25
+CA-2023-376030,2024-08-06,2024-08-10,First Class,Corporate,Central,Washington,Los Angeles,Office Supplies,Paper,75.87,5,0.0,8.55
+CA-2023-828672,2024-08-06,2024-08-12,Same Day,Corporate,West,New York,San Francisco,Technology,Accessories,48.95,2,0.3,5.57
+CA-2023-305989,2024-08-07,2024-08-08,Standard Class,Corporate,Central,Florida,Los Angeles,Furniture,Bookcases,68.31,6,0.0,11.12
+CA-2024-476198,2024-08-07,2024-08-08,Same Day,Consumer,East,New York,New York City,Furniture,Furnishings,184.6,2,0.2,16.3
+CA-2024-710965,2024-08-11,2024-08-13,Standard Class,Corporate,West,North Carolina,Seattle,Office Supplies,Binders,46.45,1,0.0,5.81
+CA-2023-664008,2024-08-11,2024-08-12,Second Class,Home Office,West,North Carolina,Houston,Office Supplies,Appliances,61.62,3,0.0,5.75
+CA-2023-954211,2024-08-12,2024-08-18,Second Class,Corporate,South,Ohio,Houston,Furniture,Furnishings,105.94,2,0.3,2.93
+CA-2023-998361,2024-08-15,2024-08-19,Second Class,Corporate,West,California,New York City,Office Supplies,Art,60.09,2,0.0,-3.54
+CA-2023-287675,2024-08-16,2024-08-23,Second Class,Home Office,East,Georgia,Columbus,Furniture,Furnishings,93.12,2,0.0,4.53
+CA-2023-168959,2024-08-22,2024-08-27,First Class,Consumer,West,Pennsylvania,San Francisco,Furniture,Chairs,37.36,3,0.3,4.26
+CA-2024-889872,2024-08-24,2024-08-31,Standard Class,Consumer,East,Pennsylvania,New York City,Furniture,Tables,44.42,1,0.2,5.19
+CA-2024-630519,2024-08-27,2024-09-03,First Class,Home Office,East,Florida,Los Angeles,Furniture,Chairs,85.4,7,0.0,1.17
+CA-2024-943170,2024-08-28,2024-09-03,Standard Class,Corporate,West,Washington,Miami,Technology,Copiers,21.76,1,0.0,1.92
+CA-2024-882844,2024-08-28,2024-09-02,Same Day,Consumer,West,Pennsylvania,Chicago,Furniture,Tables,39.96,6,0.0,5.72
+CA-2023-338313,2024-08-29,2024-09-05,Same Day,Home Office,East,Florida,Atlanta,Technology,Accessories,75.56,6,0.0,-4.36
+CA-2023-421640,2024-08-30,2024-09-02,Standard Class,Corporate,South,New York,Atlanta,Technology,Phones,50.3,1,0.3,2.72
+CA-2024-981875,2024-08-31,2024-09-06,Same Day,Home Office,Central,Georgia,Atlanta,Technology,Accessories,21.73,3,0.2,-0.2
+CA-2024-310752,2024-09-04,2024-09-11,Second Class,Corporate,West,California,Los Angeles,Technology,Accessories,86.75,2,0.0,-2.68
+CA-2024-940883,2024-09-06,2024-09-08,Second Class,Home Office,East,Texas,Seattle,Office Supplies,Paper,79.64,1,0.3,-0.01
+CA-2023-835093,2024-09-06,2024-09-12,Standard Class,Home Office,South,Washington,Charlotte,Office Supplies,Appliances,49.54,6,0.0,0.53
+CA-2024-272975,2024-09-07,2024-09-12,First Class,Consumer,South,Pennsylvania,Los Angeles,Office Supplies,Appliances,39.67,6,0.0,5.97
+CA-2024-647546,2024-09-08,2024-09-12,Standard Class,Home Office,South,Ohio,Miami,Office Supplies,Storage,60.32,2,0.0,0.89
+CA-2023-278016,2024-09-09,2024-09-15,First Class,Consumer,East,Texas,Miami,Office Supplies,Paper,43.51,1,0.0,-1.74
+CA-2023-334172,2024-09-14,2024-09-15,Same Day,Corporate,West,North Carolina,New York City,Office Supplies,Binders,74.41,1,0.2,3.34
+CA-2024-868646,2024-09-14,2024-09-21,Standard Class,Home Office,West,Washington,New York City,Office Supplies,Storage,35.27,7,0.3,-1.52
+CA-2023-859546,2024-09-16,2024-09-19,Standard Class,Consumer,Central,Washington,Charlotte,Technology,Copiers,57.06,6,0.3,6.62
+CA-2024-757767,2024-09-16,2024-09-21,Second Class,Corporate,West,Pennsylvania,Columbus,Technology,Phones,88.8,3,0.1,10.92
+CA-2024-793486,2024-09-17,2024-09-24,Same Day,Consumer,Central,Pennsylvania,Miami,Furniture,Tables,61.09,5,0.0,-0.57
+CA-2023-800928,2024-09-20,2024-09-26,First Class,Consumer,South,Washington,Columbus,Technology,Accessories,105.82,2,0.2,-3.62
+CA-2024-475366,2024-09-21,2024-09-26,Second Class,Home Office,Central,Illinois,Philadelphia,Furniture,Furnishings,40.38,1,0.0,-0.86
+CA-2023-684370,2024-09-22,2024-09-25,Standard Class,Home Office,South,Georgia,Houston,Technology,Phones,60.11,7,0.0,5.39
+CA-2024-570758,2024-09-23,2024-09-28,Second Class,Consumer,East,Texas,New York City,Furniture,Chairs,93.59,6,0.1,-4.43
+CA-2024-316472,2024-09-25,2024-09-30,Same Day,Corporate,West,California,Chicago,Furniture,Chairs,42.82,6,0.3,-1.43
+CA-2023-635281,2024-09-26,2024-09-30,First Class,Consumer,West,New York,Philadelphia,Office Supplies,Appliances,29.93,5,0.0,3.59
+CA-2024-497420,2024-09-26,2024-09-28,Second Class,Consumer,Central,Pennsylvania,Columbus,Furniture,Tables,65.66,7,0.0,8.97
+CA-2024-355198,2024-09-28,2024-09-29,Standard Class,Home Office,West,North Carolina,Charlotte,Office Supplies,Storage,49.46,3,0.2,-2.18
+CA-2023-273679,2024-09-28,2024-10-02,First Class,Consumer,East,Georgia,Philadelphia,Office Supplies,Storage,59.52,2,0.3,6.32
+CA-2024-778230,2024-09-29,2024-10-01,Second Class,Home Office,East,Pennsylvania,Atlanta,Furniture,Chairs,36.31,4,0.0,4.95
+CA-2024-326640,2024-09-30,2024-10-04,First Class,Consumer,West,Texas,Columbus,Office Supplies,Appliances,87.52,2,0.0,5.0
+CA-2023-969238,2024-10-01,2024-10-03,Standard Class,Home Office,South,Florida,New York City,Technology,Accessories,92.84,7,0.3,8.84
+CA-2023-937654,2024-10-02,2024-10-08,Standard Class,Consumer,East,New York,Atlanta,Technology,Phones,135.6,6,0.1,0.08
+CA-2023-523998,2024-10-07,2024-10-09,Second Class,Consumer,Central,California,Los Angeles,Office Supplies,Binders,25.84,5,0.0,2.24
+CA-2024-874895,2024-10-07,2024-10-08,First Class,Consumer,South,Pennsylvania,Philadelphia,Office Supplies,Art,29.01,5,0.0,-0.2
+CA-2024-138622,2024-10-08,2024-10-15,Second Class,Consumer,South,Texas,Charlotte,Office Supplies,Appliances,32.43,7,0.2,3.13
+CA-2023-751436,2024-10-09,2024-10-12,Standard Class,Corporate,West,Georgia,Los Angeles,Furniture,Bookcases,154.07,7,0.3,2.6
+CA-2023-678339,2024-10-09,2024-10-15,Second Class,Home Office,South,New York,Atlanta,Office Supplies,Art,89.24,6,0.0,13.16
+CA-2023-178765,2024-10-10,2024-10-12,First Class,Home Office,East,Ohio,Atlanta,Furniture,Chairs,116.18,6,0.0,3.47
+CA-2023-535562,2024-10-16,2024-10-23,Standard Class,Home Office,West,Texas,Chicago,Office Supplies,Binders,74.88,6,0.0,13.04
+CA-2023-406139,2024-10-21,2024-10-24,Standard Class,Consumer,East,Washington,Seattle,Furniture,Bookcases,33.31,5,0.0,2.46
+CA-2023-988895,2024-10-23,2024-10-29,Standard Class,Home Office,Central,Ohio,San Francisco,Furniture,Tables,111.53,2,0.0,16.95
+CA-2024-751323,2024-10-23,2024-10-28,Second Class,Consumer,South,California,Philadelphia,Furniture,Bookcases,103.09,7,0.0,1.76
+CA-2024-534194,2024-10-23,2024-10-25,Same Day,Consumer,Central,Washington,Chicago,Furniture,Bookcases,59.38,2,0.3,1.59
+CA-2024-531633,2024-10-23,2024-10-30,Standard Class,Consumer,Central,Texas,New York City,Office Supplies,Paper,135.99,6,0.0,18.76
+CA-2023-572673,2024-10-27,2024-10-30,Second Class,Consumer,Central,Texas,San Francisco,Furniture,Tables,27.88,7,0.1,4.41
+CA-2024-794262,2024-11-01,2024-11-08,First Class,Consumer,South,Ohio,Houston,Office Supplies,Appliances,36.02,3,0.0,-1.33
+CA-2024-718917,2024-11-01,2024-11-08,Standard Class,Consumer,South,New York,Philadelphia,Furniture,Furnishings,50.97,1,0.0,2.76
+CA-2023-713336,2024-11-03,2024-11-07,Second Class,Corporate,Central,Ohio,Miami,Technology,Copiers,48.65,6,0.0,-2.45
+CA-2023-940951,2024-11-06,2024-11-10,Same Day,Consumer,West,North Carolina,New York City,Technology,Phones,59.66,4,0.0,6.09
+CA-2023-948526,2024-11-06,2024-11-12,Second Class,Corporate,East,Texas,Seattle,Office Supplies,Art,41.96,4,0.2,2.96
+CA-2024-364178,2024-11-06,2024-11-10,Standard Class,Consumer,Central,Georgia,Chicago,Furniture,Bookcases,44.09,6,0.2,2.92
+CA-2024-197508,2024-11-07,2024-11-10,Second Class,Corporate,Central,Florida,Atlanta,Furniture,Bookcases,65.23,7,0.1,5.46
+CA-2023-954320,2024-11-09,2024-11-13,Standard Class,Corporate,South,Illinois,New York City,Furniture,Bookcases,62.42,6,0.0,1.88
+CA-2024-484959,2024-11-09,2024-11-13,Standard Class,Home Office,West,Ohio,New York City,Furniture,Chairs,50.41,4,0.0,3.72
+CA-2024-387515,2024-11-13,2024-11-16,Second Class,Consumer,South,Georgia,Los Angeles,Furniture,Furnishings,35.92,5,0.2,-0.84
+CA-2023-682219,2024-11-14,2024-11-18,Second Class,Corporate,Central,Texas,New York City,Furniture,Tables,118.3,2,0.0,19.51
+CA-2023-899691,2024-11-15,2024-11-21,Same Day,Corporate,East,Ohio,Houston,Furniture,Tables,40.09,6,0.3,3.69
+CA-2024-523329,2024-11-17,2024-11-18,Second Class,Consumer,East,Georgia,Columbus,Furniture,Bookcases,62.62,7,0.0,-3.59
+CA-2024-917632,2024-11-17,2024-11-23,First Class,Home Office,West,New York,Philadelphia,Office Supplies,Art,78.09,1,0.3,4.76
+CA-2023-510583,2024-11-18,2024-11-23,Standard Class,Home Office,East,Texas,Los Angeles,Technology,Accessories,29.97,5,0.2,-0.99
+CA-2024-538580,2024-11-19,2024-11-24,Same Day,Consumer,East,California,Houston,Technology,Accessories,38.87,6,0.1,-1.32
+CA-2024-742567,2024-11-19,2024-11-20,Same Day,Corporate,Central,California,Seattle,Technology,Copiers,33.96,5,0.1,-1.31
+CA-2024-352457,2024-11-20,2024-11-25,Second Class,Home Office,West,New York,Atlanta,Technology,Copiers,20.93,3,0.3,0.4
+CA-2023-876369,2024-11-21,2024-11-27,First Class,Corporate,East,Pennsylvania,Seattle,Technology,Copiers,36.53,7,0.0,4.35
+CA-2023-266956,2024-11-23,2024-11-26,First Class,Corporate,East,Pennsylvania,Chicago,Furniture,Furnishings,56.44,4,0.1,-1.48
+CA-2023-752983,2024-11-23,2024-11-26,Same Day,Home Office,South,Texas,Miami,Office Supplies,Art,37.67,4,0.1,3.84
+CA-2023-258086,2024-11-23,2024-11-30,First Class,Home Office,South,New York,Los Angeles,Furniture,Furnishings,44.04,4,0.1,4.63
+CA-2024-137029,2024-11-24,2024-11-29,First Class,Consumer,South,Florida,Seattle,Technology,Phones,44.29,6,0.1,-2.31
+CA-2024-820542,2024-11-26,2024-12-03,Same Day,Consumer,Central,Georgia,Houston,Furniture,Bookcases,72.81,2,0.0,10.37
+CA-2024-606653,2024-11-28,2024-11-29,Same Day,Consumer,East,Texas,San Francisco,Office Supplies,Storage,64.65,3,0.1,0.93
+CA-2024-643426,2024-11-29,2024-11-30,Second Class,Home Office,Central,California,Chicago,Office Supplies,Art,26.48,5,0.0,0.65
+CA-2024-789195,2024-12-04,2024-12-08,First Class,Consumer,East,California,Los Angeles,Technology,Accessories,50.08,5,0.2,-1.07
+CA-2024-567336,2024-12-05,2024-12-07,Second Class,Corporate,Central,California,Houston,Technology,Copiers,53.78,7,0.2,-0.42
+CA-2023-154638,2024-12-08,2024-12-10,Second Class,Home Office,Central,Ohio,Charlotte,Office Supplies,Appliances,98.68,3,0.0,10.24
+CA-2024-905069,2024-12-10,2024-12-12,Second Class,Home Office,Central,California,Atlanta,Technology,Phones,66.1,3,0.0,9.59
+CA-2023-517094,2024-12-11,2024-12-15,First Class,Corporate,Central,Florida,Chicago,Technology,Accessories,84.45,3,0.3,2.75
+CA-2023-563006,2024-12-12,2024-12-14,Same Day,Consumer,Central,Pennsylvania,Philadelphia,Technology,Accessories,47.42,4,0.2,6.55
+CA-2024-987088,2024-12-12,2024-12-13,Second Class,Home Office,East,Texas,Charlotte,Furniture,Tables,27.36,1,0.1,0.12
+CA-2024-286346,2024-12-16,2024-12-22,Standard Class,Corporate,South,Illinois,Chicago,Office Supplies,Paper,182.72,1,0.3,17.51
+CA-2024-104397,2024-12-18,2024-12-22,Same Day,Home Office,Central,North Carolina,Seattle,Technology,Accessories,65.82,1,0.3,6.4
+CA-2023-713704,2024-12-20,2024-12-23,Second Class,Consumer,West,California,New York City,Office Supplies,Art,56.36,5,0.0,-3.66
+CA-2024-737747,2024-12-20,2024-12-27,Second Class,Consumer,West,Georgia,San Francisco,Office Supplies,Appliances,43.9,5,0.0,2.03
+CA-2023-464846,2024-12-22,2024-12-27,First Class,Consumer,East,New York,San Francisco,Technology,Copiers,31.07,1,0.3,1.17
+CA-2024-645986,2024-12-24,2024-12-25,Second Class,Home Office,Central,Georgia,Miami,Furniture,Chairs,84.98,3,0.3,8.77
+CA-2023-819463,2024-12-27,2025-01-02,Second Class,Consumer,Central,North Carolina,Houston,Furniture,Tables,18.83,1,0.1,1.83
+CA-2024-260173,2024-12-28,2024-12-31,First Class,Corporate,West,New York,Atlanta,Office Supplies,Art,42.35,7,0.2,0.7
+CA-2024-274305,2024-12-28,2024-12-29,Standard Class,Consumer,East,Florida,Chicago,Furniture,Bookcases,75.98,7,0.3,6.23
+CA-2024-795499,2024-12-29,2024-12-31,Same Day,Corporate,West,Florida,Philadelphia,Office Supplies,Binders,47.86,5,0.0,0.81
