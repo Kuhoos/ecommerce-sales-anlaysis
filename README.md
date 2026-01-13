@@ -29,3 +29,6 @@ Sample Superstore Sales dataset (CSV)
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+###  Correlation Heatmap 
+
